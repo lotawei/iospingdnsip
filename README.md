@@ -2,6 +2,8 @@
 ##用途
 
 获取网络的基本信息等小工具
+部分实现也包括swift版本
+https://github.com/lotawei/PingTool
 
 1.ping ip 域名的结果
 
